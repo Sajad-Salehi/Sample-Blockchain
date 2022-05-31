@@ -1,3 +1,3 @@
 # Sample-Blockchain
 Implement a sample blockchain using Python and flask
-(Proof Of work mechanism)
+(Proof Of work mechanism) -> BTC
